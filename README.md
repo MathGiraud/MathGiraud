@@ -1,5 +1,7 @@
 ### Hi there 👋
+:fire: :school: :metal: Student at O'clock :metal: :school: :fire:
 
+:point_right: Projects are coming soon :point_left:
 <!--
 **MathGiraud/MathGiraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
